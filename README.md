@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are a few projects I worked on:
+
+**Websites**
+
+ - [homepage](https://gregorcnik.github.io/GregorPotocnik/): my homepage
+ - [website for learning English irregular verbs](https://gregorcnik.github.io/nepravilni-glagoli/): !In Slovenian
